@@ -1,1 +1,1 @@
-# Responsive-Reg-Form
+This is a responsive registration form that was created using html, css, and javascript. it is used to collect and store information  like personal, identity, family information and so on while registrating on an any website, which is very useful for many institution like banking industry, healthcare industry, the government and so on.
